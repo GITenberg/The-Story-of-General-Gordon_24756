@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26717'
     url: http://www.gutenberg.org/2009/agents/26717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24756#The-Story-of-General-Gordon
 gutenberg_issued: '2008-03-05'
 gutenberg_type: Text
 identifiers:
