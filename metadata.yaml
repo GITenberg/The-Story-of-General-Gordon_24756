@@ -1,0 +1,29 @@
+_repo: The-Story-of-General-Gordon_24756
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Jean
+    alias: Lang, Jeanie
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '26717'
+    url: http://www.gutenberg.org/2009/agents/26717
+description: ''
+gutenberg_issued: '2008-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gordon, Charles George, 1833-1885'
+- !lcc 'DA'
+- !lcc 'CT'
+- !lcsh 'Generals -- Great Britain -- Biography'
+title: The Story of General Gordon
+url: http://www.gutenberg.org/ebooks/24756
